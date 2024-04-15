@@ -1,0 +1,13 @@
+.completed-task {
+    text-decoration: line-through; /* Apply a strike-through style to completed tasks */
+    color: #6c757d; /* Change the color of completed tasks for better differentiation */
+  }
+  
+  .list-group-item {
+    margin-bottom: 10px; /* Add margin between tasks for better spacing */
+  }
+  
+  .btn-delete {
+    margin-left: 10px; /* Add margin to the delete button for better spacing */
+  }
+  
