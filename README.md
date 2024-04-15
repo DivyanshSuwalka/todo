@@ -26,7 +26,7 @@ npm start
 
 Folder Structure:
 
-todo-app/
+todo/
   |-- public/
   |-- src/
       |-- components/
