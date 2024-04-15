@@ -13,7 +13,17 @@ This is a simple To-Do application built using ReactJS, Redux for state manageme
 - Node.js
 - npm (Node Package Manager)
 
-## Folder Structure
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/DivyanshSuwalka/todo-app.git
+cd todo
+npm install
+npm start
+
+Folder Structure:
 
 todo/
   |-- public/
@@ -29,14 +39,3 @@ todo/
   |-- .gitignore
   |-- package.json
   |-- README.md
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/DivyanshSuwalka/todo-app.git
-cd todo
-npm install
-npm start
-
