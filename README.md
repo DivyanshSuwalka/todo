@@ -18,6 +18,22 @@ This is a simple To-Do application built using ReactJS, Redux for state manageme
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+
+
+
+## Folder Structure
+
+todo-app/
+  |-- public/
+  |-- src/
+      |-- components/
+          |-- TaskInput.js
+          |-- TaskList.js
+      |-- redux/
+          |-- actions.js
+          |-- reducers.js
+      |-- App.js
+      |-- index.js
+  |-- .gitignore
+  |-- package.json
+  |-- README.md
